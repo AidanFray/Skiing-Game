@@ -1,0 +1,132 @@
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Skiing_Game.exe
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Skiing_Game.pdb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\obj\x86\Debug\Skiing_Game.csprojResolveAssemblyReference.cache
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\obj\x86\Debug\Skiing_Game.exe
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\obj\x86\Debug\Skiing_Game.pdb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\cheese.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\crashSpriteSheet.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\downSkier.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\leftBlueflag.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\leftSkier.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\nKey.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\qKey.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\rightRedFlag.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\rightSkier.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\sKey.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\skier.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\SnowBallFrames.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\SnowTexture.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\SnowTrail.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\spaceBar.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\upSkier.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Background\SnowField.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Banner\TV_Banner.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Buttons\EndButton.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Buttons\HighScoresButton.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Buttons\StartButton.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Banner\playerName.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Fonts\saveAndLoad.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Fonts\score.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Fonts\smallFont.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Sounds\BackgroundMusic.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Sounds\CheesePing.xnb
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Sounds\SnowballHit16.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\cheese.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\crashSpriteSheet.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\downSkier.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\leftBlueflag.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\leftSkier.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\nKey.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\qKey.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\rightRedFlag.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\rightSkier.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\sKey.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\skier.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\SnowBallFrames.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\SnowTexture.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\SnowTrail.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\spaceBar.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\upSkier.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Background\SnowField.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Banner\TV_Banner.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Buttons\EndButton.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Buttons\HighScoresButton.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Buttons\StartButton.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Banner\playerName.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Fonts\saveAndLoad.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Fonts\score.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Fonts\smallFont.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Sounds\BackgroundMusic.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Sounds\CheesePing.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Sounds\SnowballHit16.xnb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Skiing_Game.exe
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Skiing_Game.pdb
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\obj\x86\Debug\Skiing_Game.csprojResolveAssemblyReference.cache
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\obj\x86\Debug\Skiing_Game.exe
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_Game\obj\x86\Debug\Skiing_Game.pdb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\cheese.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\crashSpriteSheet.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\downSkier.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\leftBlueflag.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\leftSkier.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\nKey.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\qKey.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\rightRedFlag.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\rightSkier.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\sKey.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\skier.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\SnowBallFrames.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\SnowTexture.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\SnowTrail.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\spaceBar.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\upSkier.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Background\SnowField.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Banner\TV_Banner.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Buttons\EndButton.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Buttons\HighScoresButton.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Buttons\StartButton.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Banner\playerName.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Fonts\saveAndLoad.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Fonts\score.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Fonts\smallFont.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Sounds\BackgroundMusic.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Sounds\CheesePing.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Sounds\SnowballHit16.xnb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Skiing_Game.exe
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Skiing_Game.pdb
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.dll
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.xml
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\obj\x86\Debug\Skiing_Game.csprojResolveAssemblyReference.cache
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\obj\x86\Debug\Skiing_Game.exe
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_Game\obj\x86\Debug\Skiing_Game.pdb

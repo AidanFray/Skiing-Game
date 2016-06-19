@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Assets\cheese.png</Source>
+      <Name>Assets\cheese</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\cheese.xnb</Output>
+      <Time>2016-05-23T15:26:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\crashSpriteSheet.png</Source>
+      <Name>Assets\crashSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\crashSpriteSheet.xnb</Output>
+      <Time>2016-05-23T15:26:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\downSkier.png</Source>
+      <Name>Assets\downSkier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\downSkier.xnb</Output>
+      <Time>2016-05-23T15:26:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\leftBlueflag.png</Source>
+      <Name>Assets\leftBlueflag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\leftBlueflag.xnb</Output>
+      <Time>2016-05-23T15:26:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\leftSkier.png</Source>
+      <Name>Assets\leftSkier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\leftSkier.xnb</Output>
+      <Time>2016-05-23T15:26:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\nKey.png</Source>
+      <Name>Assets\nKey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\nKey.xnb</Output>
+      <Time>2016-05-23T15:26:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\qKey.png</Source>
+      <Name>Assets\qKey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\qKey.xnb</Output>
+      <Time>2016-05-23T15:26:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\rightRedFlag.png</Source>
+      <Name>Assets\rightRedFlag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\rightRedFlag.xnb</Output>
+      <Time>2016-05-23T15:26:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\rightSkier.png</Source>
+      <Name>Assets\rightSkier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\rightSkier.xnb</Output>
+      <Time>2016-05-23T15:26:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\sKey.png</Source>
+      <Name>Assets\sKey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\sKey.xnb</Output>
+      <Time>2016-05-23T15:26:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\skier.png</Source>
+      <Name>Assets\skier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\skier.xnb</Output>
+      <Time>2016-05-23T15:26:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\SnowBallFrames.png</Source>
+      <Name>Assets\SnowBallFrames</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\SnowBallFrames.xnb</Output>
+      <Time>2016-05-23T15:26:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\SnowTexture.png</Source>
+      <Name>Assets\SnowTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\SnowTexture.xnb</Output>
+      <Time>2016-05-23T15:26:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\SnowTrail.png</Source>
+      <Name>Assets\SnowTrail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\SnowTrail.xnb</Output>
+      <Time>2016-06-05T13:30:49.9205782+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\spaceBar.png</Source>
+      <Name>Assets\spaceBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\spaceBar.xnb</Output>
+      <Time>2016-05-23T15:26:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\upSkier.png</Source>
+      <Name>Assets\upSkier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Assets\upSkier.xnb</Output>
+      <Time>2016-05-23T15:26:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\SnowField.png</Source>
+      <Name>Background\SnowField</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Background\SnowField.xnb</Output>
+      <Time>2016-05-23T15:26:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Banner\TV_Banner.png</Source>
+      <Name>Banner\TV_Banner</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Banner\TV_Banner.xnb</Output>
+      <Time>2016-05-23T15:26:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\EndButton.png</Source>
+      <Name>Buttons\EndButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Buttons\EndButton.xnb</Output>
+      <Time>2016-05-23T15:26:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\HighScoresButton.png</Source>
+      <Name>Buttons\HighScoresButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Buttons\HighScoresButton.xnb</Output>
+      <Time>2016-05-23T15:26:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\StartButton.png</Source>
+      <Name>Buttons\StartButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Buttons\StartButton.xnb</Output>
+      <Time>2016-05-23T15:26:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Banner\playerName.spritefont</Source>
+      <Name>Banner\playerName</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Banner\playerName.xnb</Output>
+      <Time>2016-05-23T15:26:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\saveAndLoad.spritefont</Source>
+      <Name>Fonts\saveAndLoad</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Fonts\saveAndLoad.xnb</Output>
+      <Time>2016-05-23T15:26:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\score.spritefont</Source>
+      <Name>Fonts\score</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Fonts\score.xnb</Output>
+      <Time>2016-05-23T15:41:29+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\smallFont.spritefont</Source>
+      <Name>Fonts\smallFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Fonts\smallFont.xnb</Output>
+      <Time>2016-05-23T15:26:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\BackgroundMusic.wav</Source>
+      <Name>Sounds\BackgroundMusic</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Sounds\BackgroundMusic.xnb</Output>
+      <Time>2016-05-23T15:26:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\CheesePing.wav</Source>
+      <Name>Sounds\CheesePing</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Sounds\CheesePing.xnb</Output>
+      <Time>2016-05-23T15:26:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\SnowballHit16.wav</Source>
+      <Name>Sounds\SnowballHit16</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\Sounds\SnowballHit16.xnb</Output>
+      <Time>2016-05-23T15:26:17+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{89CD8737-8860-4AF5-B9FD-2C157E54CFC9}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_GameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_Game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-11-11T19:30:25.9710579+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

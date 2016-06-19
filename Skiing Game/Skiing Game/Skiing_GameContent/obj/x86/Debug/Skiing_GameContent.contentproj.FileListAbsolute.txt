@@ -1,0 +1,3 @@
+C:\Users\afray\Desktop\Skiing Game\Skiing Game\Skiing_GameContent\obj\x86\Debug\Skiing_GameContent.contentprojResolveAssemblyReference.cache
+C:\Users\afray\Desktop\Skiing Game V2.00\Skiing Game\Skiing_GameContent\obj\x86\Debug\Skiing_GameContent.contentprojResolveAssemblyReference.cache
+G:\GitHub\Skiing-Game\Skiing Game\Skiing Game\Skiing_GameContent\obj\x86\Debug\Skiing_GameContent.contentprojResolveAssemblyReference.cache
